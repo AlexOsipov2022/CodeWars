@@ -1,7 +1,4 @@
-package HW_13;
-
-import java.util.HashMap;
-import java.util.Map;
+package RedRover_HW_13;
 
 public class HW_13_4 {
     public static String position(char alphabet) {

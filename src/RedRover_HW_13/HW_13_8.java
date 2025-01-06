@@ -1,6 +1,5 @@
-package HW_13;
+package RedRover_HW_13;
 
-import java.lang.reflect.Array;
 import java.util.Arrays;
 
 public class HW_13_8 {
